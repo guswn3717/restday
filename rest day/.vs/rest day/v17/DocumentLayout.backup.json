@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\rest day\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BDA22EB5-B9F1-4286-81E9-91C09B49A519}|rest day\\rest day.vcxproj|C:\\Users\\user\\source\\repos\\rest day\\rest day\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BDA22EB5-B9F1-4286-81E9-91C09B49A519}|rest day\\rest day.vcxproj|solutionrelative:rest day\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 446,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileName.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\rest day\\rest day\\FileName.cpp",
+              "RelativeDocumentMoniker": "rest day\\FileName.cpp",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\rest day\\rest day\\FileName.cpp",
+              "RelativeToolTip": "rest day\\FileName.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-11T03:40:06.646Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
